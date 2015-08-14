@@ -1,0 +1,22 @@
+{
+  "name": "ng-currency",
+  "version": "1.0.0",
+  "description": "ngCurrency is a directive that enables seamless use of currency inputs.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fijimunkii/ng-currency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fijimunkii/ng-currency/issues"
+  },
+  "homepage": "https://github.com/fijimunkii/ng-currency#readme"
+}
